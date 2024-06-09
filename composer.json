@@ -1,0 +1,9 @@
+{
+  "name": "banco-crud/vagas",
+  "autoload": {
+    "psr-4": {
+      "App\\":"App/"
+    }
+
+  }
+}
